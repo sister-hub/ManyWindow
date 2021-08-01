@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\code\\ManyWindowApp\\ManyWindowApp.wapproj": {}
+  },
+  "projects": {
+    "G:\\code\\ManyWindowApp\\ManyWindowApp.wapproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\code\\ManyWindowApp\\ManyWindowApp.wapproj",
+        "projectName": "ManyWindowApp",
+        "projectPath": "G:\\code\\ManyWindowApp\\ManyWindowApp.wapproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\code\\ManyWindowApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.19041"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.19041": {
+            "projectReferences": {
+              "G:\\code\\ManyWindow\\ManyWindow.vcxproj": {
+                "projectPath": "G:\\code\\ManyWindow\\ManyWindow.vcxproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.19041": {
+          "dependencies": {
+            "Microsoft.Windows.SDK.BuildTools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.19041.8, )"
+            }
+          },
+          "imports": [
+            "netcoreapp3.1",
+            "netcoreapp3.0",
+            "netcoreapp2.0",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net5.0-windows10.0.19041",
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "G:\\code\\ManyWindow\\ManyWindow.vcxproj": {
+      "restore": {
+        "projectUniqueName": "G:\\code\\ManyWindow\\ManyWindow.vcxproj",
+        "projectName": "ManyWindow",
+        "projectPath": "G:\\code\\ManyWindow\\ManyWindow.vcxproj"
+      },
+      "frameworks": {
+        "native": {}
+      }
+    }
+  }
+}

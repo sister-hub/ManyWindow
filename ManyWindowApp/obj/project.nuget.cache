@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uFq0zYPtMBIrneCz2xnAexl7eMB1LCOpU90/+zP7FIRLQpQ8RCs9PS9uYRaDkfcF+rsbVPBNdidw1lLjhZvROA==",
+  "success": true,
+  "projectFilePath": "G:\\code\\ManyWindowApp\\ManyWindowApp.wapproj",
+  "expectedPackageFiles": [
+    "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.19041.8\\microsoft.windows.sdk.buildtools.10.0.19041.8.nupkg.sha512"
+  ],
+  "logs": []
+}
